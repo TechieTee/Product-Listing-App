@@ -9,7 +9,7 @@ const About = () => {
         <p>
           This project creates a product listing page and implements a search
           using the product's title and a filter functionality, filtering
-          products based on the categories.
+          products based on their categories.
         </p>{" "}
         <br />
         <p>
